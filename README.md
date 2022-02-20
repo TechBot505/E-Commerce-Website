@@ -1,2 +1,2 @@
-# E-Commerce-Website
+# RoseWhite
 E-commerce Website Project for DSC IITI
